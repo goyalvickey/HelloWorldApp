@@ -7,6 +7,7 @@ namespace HelloWorldApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Universe this is Manish Narayan!");
+            Console.Read();
         }
     }
 }
